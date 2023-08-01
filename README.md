@@ -1,5 +1,5 @@
 # 7z-unzip-automator
-Automatically decompresses 7z files and any compressed files within them. It simplifies the extraction of nested contents without manual intervention.
+Automatically decompresses files and any compressed files within them. It simplifies the extraction of nested contents without manual intervention.
 
 ## Based on
 
